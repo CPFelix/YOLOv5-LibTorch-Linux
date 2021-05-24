@@ -27,6 +27,7 @@ Real time object detection with deployment of YOLOv5 through LibTorch C++ API Wi
 3. Edit "CMakeLists.txt" to configure OpenCV and LibTorch correctly.
 
 4. Test model download
+
 truck detect model.
 链接：https://pan.baidu.com/s/1PETg82SDpNb52Hjbh71BZQ 
 提取码：36ax 
