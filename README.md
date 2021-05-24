@@ -28,9 +28,9 @@ Real time object detection with deployment of YOLOv5 through LibTorch C++ API Wi
 
 4. Test model download
 
-truck detect model.
-链接：https://pan.baidu.com/s/1PETg82SDpNb52Hjbh71BZQ 
-提取码：36ax 
+   truck detect model.
+   链接：https://pan.baidu.com/s/1PETg82SDpNb52Hjbh71BZQ 
+   提取码：36ax 
 
 5. Compile and run.
 
